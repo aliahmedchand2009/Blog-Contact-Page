@@ -1,0 +1,69 @@
+.navv {
+  font-weight: bolder;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 25px;
+  color: black;
+}
+
+/* Optional: Custom CSS for styling */
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: black; /* Navbar link color */
+}
+.navbar-nav .nav-link {
+  padding-right: 2rem; /* Adjust padding between navbar links */
+}
+.navbar .btn {
+  margin-left: 10px; /* Adjust margin between buttons */
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 3rem;
+  padding-left: 2rem;
+}
+
+.head h2 {
+  font-weight: bolder;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 35px;
+  padding-right: 20px;
+}
+.head span p {
+  padding-right: 10px;
+  padding-top: 3px;
+  font-size: 20px;
+}
+.sec-1 {
+  padding-left: 0%;
+  padding-right: 0%;
+}
+.one {
+  background-color: pink;
+  margin-top: 20px;
+  padding-left: 20px;
+  border-radius: 30px;
+}
+.one button {
+  background-color: grey;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+.one h4 {
+  font-size: 30px;
+  font-weight: 500;
+  padding-top: 10px;
+}
+.one h6 {
+  font-size: 20px;
+}
+.one p {
+  font-size: 40px;
+}
+.two img {
+  border-radius: 30px;
+  width: 100%;
+}
+.two {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
